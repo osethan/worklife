@@ -5,7 +5,9 @@
 **Version**: 1.0.0
 
 ## Overview
-A project to help count Calories. Factors which affect Calorie needs are gender, age, height, weight, activity level and weight goal. These meal plans are written dynamically for someone who is male, 6'3" and 160 lbs. No. 1 meal plans added together make 2,700 Calories / Day.
+A project to help count Calories. Factors which affect Calorie needs are gender, age, height, weight, activity level and weight goal. These meal plans are written dynamically for someone who is male, 6'3" and 160 lbs.
+
+No. 1 meal plans added together make 2,700 Calories / Day. Calorie ranges fit weight goal Mild Weight Loss (0.5 lbs / week) - Maintain Weight Calorie needs. Such a weight goal means not overthinking when at restaurants or eating dessert.
 
 Meal plans are a simple way to count Calories without overthinking. These meal plans are made with a budget in mind. **Weekly costs budget $100 and 2 hours cooking**.
 <!-- In a high level overview describe what the project is and why the project is being built (i.e. What's your problem domain?) -->
